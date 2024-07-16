@@ -1,0 +1,230 @@
+{
+    "videos":[
+{
+    "id": 1,
+    "title": "Curso de Python desde Cero para Principiantes",
+    "categorie": "Python",
+    "description": "Curso de Python para principiantes desde cero en el cual se cubre lo fundamental en cuanto a conceptos y se aprende a aplicar tales conceptos vía código escrito en la terminal o editor de modo de tener un feedback inmediato de comprensión",
+    "url": "https://www.youtube.com/embed/Kp4Mvapo5kc",
+    "image": "https://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 2,
+    "title": "Curso Completo de Javascript desde Cero",
+    "categorie": "JavaScript",
+    "description": "Curso de JavaScript muy completo en el cual se aborda lo fundamental en relación a conceptos y su aplicación inmediata escribiendo código en un editor o terminal de modo de tener un feedback inmediato de aprendizaje",
+    "url": "https://www.youtube.com/embed/Eh-s-n_6zNQ",
+    "image": "https://i3.ytimg.com/vi/Eh-s-n_6zNQ/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 3,
+    "title": "Aprende Node.js y Express - Curso desde Cero",
+    "categorie": "JavaScript",
+    "description": "Curso de Node.js y Express.js en el cual se aborda lo fundamental en el lado del backend o servidor",
+    "url": "https://www.youtube.com/embed/1hpc70_OoAg",
+    "image": "https://i3.ytimg.com/vi/1hpc70_OoAg/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 4,
+    "title": "React.JS desde cero | Curso tutorial completo",
+    "categorie": "JavaScript",
+    "description": "Curso de la librería React.js en el cual se cubre lo fundamental en relación a conceptos y aplicación inmediata",
+    "url": "https://www.youtube.com/embed/ladwC6Lrs-M",
+    "image": "https://i3.ytimg.com/vi/ladwC6Lrs-M/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 5,
+    "title": "Aprende React.js con 3 proyectos incluidos! +6 horas",
+    "categorie": "JavaScript",
+    "description": "Curso práctico de uso de la librería React.js en el cual se realizan proyectos de diversa dificultad",
+    "url": "https://www.youtube.com/embed/0C5yFwOYhAk",
+    "image": "https://i3.ytimg.com/vi/0C5yFwOYhAk/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 6,
+    "title": "Curso de React [2023]: De cero hasta crear tus primeros componentes con estado",
+    "categorie": "JavaScript",
+    "description": "Curso teorico, practico de React desde un nivel básico a intermedio-básico",
+    "url": "https://www.youtube.com/embed/7iobxzd_2wY",
+    "image": "https://i3.ytimg.com/vi/7iobxzd_2wY/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 7,
+    "title": "All The JavaScript You Need To Know For React",
+    "categorie": "JavaScript",
+    "description": "Curso sobre aspectos esenciales de JavaScript para comprender la librería React.js",
+    "url": "https://www.youtube.com/embed/m55PTVUrlnA",
+    "image": "https://i3.ytimg.com/vi/m55PTVUrlnA/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 8,
+    "title": "Harvard CS50`s Introduction to Programming with Python",
+    "categorie": "Python",
+    "description": "Curso extremadamente completo sobre lo fundamental de Python desde un nivel básico a medio alto.",
+    "url": "https://www.youtube.com/embed/nLRL_NcnK-4",
+    "image": "https://i3.ytimg.com/vi/nLRL_NcnK-4/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 9,
+    "title": "Python As Fast as Possible - Learn Python in ~75 Minutes",
+    "categorie": "Python",
+    "description": "Curso de Python el cual abarca lo fundamental pero de una manera comprimida",
+    "url": "https://www.youtube.com/embed/VchuKL44s6E",
+    "image": "https://i3.ytimg.com/vi/VchuKL44s6E/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 10,
+    "title": "Learn Python With This ONE Project!",
+    "categorie": "Python",
+    "description": "Curso de Python practico en el cual se aprenden o fortalecen conceptos haciendo (hands-on)",
+    "url": "https://www.youtube.com/embed/th4OBktqK1I",
+    "image": "https://i3.ytimg.com/vi/th4OBktqK1I/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 11,
+    "title": "Python Object Oriented Programming (OOP) - For Beginners",
+    "categorie": "Python",
+    "description": "Curso de Python enfocado en la programación orientada a objetos. Dicho paradigma de programación es el predominante hoy en día y dominarlo te abre las puertas de la programación a nivel avanzado",
+    "url": "https://www.youtube.com/embed/JeznW_7DlB0",
+    "image": "https://i3.ytimg.com/vi/JeznW_7DlB0/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 12,
+    "title": "Django, Curso de Django para Principiantes",
+    "categorie": "Python",
+    "description": "Curso del Framework ágil Django de Python desde cero",
+    "url": "https://www.youtube.com/embed/T1intZyhXDU",
+    "image": "https://i3.ytimg.com/vi/T1intZyhXDU/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 13,
+    "title": "Curso de HTML5 desde CERO (Completo)",
+    "categorie": "HTML",
+    "description": "Curso de HTML5 que cubre lo fundamental para estructurar páginas web",
+    "url": "https://www.youtube.com/embed/kN1XP-Bef7w",
+    "image": "https://i3.ytimg.com/vi/kN1XP-Bef7w/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 14,
+    "title": "Learn HTML-Full Tutorial for Beginners (2022)",
+    "categorie": "HTML",
+    "description": "Curso de HTML5 de la plataforma FreeCodeCamp ideal para principiantes",
+    "url": "https://www.youtube.com/embed/kUMe1FH4CHE",
+    "image": "https://i3.ytimg.com/vi/kUMe1FH4CHE/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 15,
+    "title": "HTML Full Course - Build a Website Tutorial",
+    "categorie": "HTML",
+    "description": "Curso de HTML5 de la plataforma FreeCodeCamp el cual tiene sobre 4 Millones de Vistas, ideal para principiantes",
+    "url": "https://www.youtube.com/embed/pQN-pnXPaVg",
+    "image": "https://i3.ytimg.com/vi/pQN-pnXPaVg/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 16,
+    "title": "HTML & Coding Introduction - Course for Beginners",
+    "categorie": "HTML",
+    "description": "Curso de HTML5 de la plataforma FreeCodeCamp el cual presenta una introducción a programar junto con HTML",
+    "url": "https://www.youtube.com/embed/GDGejH3SDNQ",
+    "image": "https://i3.ytimg.com/vi/GDGejH3SDNQ/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 17,
+    "title": "Aprende HTML ahora! curso completo GRATIS desde cero",
+    "categorie": "HTML",
+    "description": "Curso Completo de HTML en español con más de 1 Millos de Vistas",
+    "url": "https://www.youtube.com/embed/MJkdaVFHrto",
+    "image": "https://i3.ytimg.com/vi/MJkdaVFHrto/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 18,
+    "title": "Tutorial HTML desde Cero-HTML5 Para PRINCIPIANTES",
+    "categorie": "HTML",
+    "description": "Curso Completo de HTML5 en español bastante comprensible y útil para principiantes hecho en el editor Visual Studio Code",
+    "url": "https://www.youtube.com/embed/vz4z0RLcAyk",
+    "image": "https://i3.ytimg.com/vi/vz4z0RLcAyk/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 19,
+    "title": "Aprende CSS ahora! curso completo GRATIS desde cero",
+    "categorie": "CSS",
+    "description": "Curso para aprender CSS en español ideal para principiantes",
+    "url": "https://www.youtube.com/embed/wZniZEbPAzk",
+    "image": "https://i3.ytimg.com/vi/wZniZEbPAzk/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 20,
+    "title": "Curso de CSS desde CERO (Completo)",
+    "categorie": "CSS",
+    "description": "Curso para aprender CSS en español con más de 3.5 millones de vistas y más de 9 horas de contenido ideal para principiantes",
+    "url": "https://www.youtube.com/embed/OWKXEJN67FE",
+    "image": "https://i3.ytimg.com/vi/OWKXEJN67FE/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 21,
+    "title": "CURSO CSS desde Cero - CSS BÁSICO Para PRINCIPIANTES",
+    "categorie": "CSS",
+    "description": "Curso para aprender CSS desde cero ideal para principiantes",
+    "url": "https://www.youtube.com/embed/N8V5JhasaSE",
+    "image": "https://i3.ytimg.com/vi/N8V5JhasaSE/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 22,
+    "title": "Aprende html y css! con 5 proyectos incluidos",
+    "categorie": "CSS",
+    "description": "Curso de aplicación de HTML y CSS con proyecto incluidos. Más de 6 horas de contenido",
+    "url": "https://www.youtube.com/embed/AXPASVeX74o",
+    "image": "https://i3.ytimg.com/vi/AXPASVeX74o/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 23,
+    "title": "Aprende HTML y CSS - Curso Desde Cero",
+    "categorie": "CSS",
+    "description": "Curso de HTML y CSS de la plataforma FreeCodeCamp con más de 1 millón de vistas en Español",
+    "url": "https://www.youtube.com/embed/XqFR2lqBYPs",
+    "image": "https://i3.ytimg.com/vi/XqFR2lqBYPs/maxresdefault.jpgImage preview"
+    },
+    {
+    "id": 24,
+    "title": "CSS Full Course for Beginners | Complete All-in-One Tutorial",
+    "categorie": "CSS",
+    "description": "Curso de CSS muy completo con más de 11 horas de contenido",
+    "url": "https://www.youtube.com/embed/n4R2E7O-Ngo",
+    "image": "https://i3.ytimg.com/vi/n4R2E7O-Ngo/maxresdefault.jpgImage preview"
+    },
+    {
+    "title": "Python 5",
+    "categorie": "Python",
+    "description": "curso desde cero python",
+    "url": "https://www.youtube.com/watch?v=nKPbfIU442g&ab_channel=SoyDalto",
+    "image": "https://www.twine.net/blog/wordpress/wp-content/uploads/2022/07/pythonlogo.pngImage preview",
+    "id": "25"
+    }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Python",
+            "description": "Lenguaje Script de sintaxis sencilla y de curva de aprendizaje rapida. Posee numerosas librerias y cada vez se hace más poderoso.",
+            "color": "#6BD1FF"
+            },
+            {
+            "id": 2,
+            "name": "JavaScript",
+            "description": "Lenguaje Script de la web el cual se hace más poderoso con el tiempo gracias a innumerables librerias y el paradigma JavaScript Everywhere",
+            "color": "#9CD33B"
+            },
+            {
+            "id": 3,
+            "name": "HTML",
+            "description": "Lenguaje de marcado con el que se estructuran sitios web. Fundamental en desarrollo web",
+            "color": "#00C86F"
+            },
+            {
+            "id": 4,
+            "name": "CSS",
+            "description": "Lenguaje de estilización de etiquetas HTML fundamental junto con HTML en el desarrollo web.",
+            "color": "#6B5BE2"
+            }
+    ]
+}
